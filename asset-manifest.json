@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-citytour/static/css/main.e04f6362.chunk.css",
+    "main.js": "/react-citytour/static/js/main.f05c3f88.chunk.js",
+    "main.js.map": "/react-citytour/static/js/main.f05c3f88.chunk.js.map",
+    "runtime~main.js": "/react-citytour/static/js/runtime~main.b1671487.js",
+    "runtime~main.js.map": "/react-citytour/static/js/runtime~main.b1671487.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/react-citytour/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/react-citytour/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/react-citytour/index.html",
+    "precache-manifest.eb5ee31c84c66b55d815b2df0e8db6cc.js": "/react-citytour/precache-manifest.eb5ee31c84c66b55d815b2df0e8db6cc.js",
+    "service-worker.js": "/react-citytour/service-worker.js",
+    "static/css/main.e04f6362.chunk.css.map": "/react-citytour/static/css/main.e04f6362.chunk.css.map"
+  }
+}
